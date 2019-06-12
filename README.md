@@ -1,0 +1,2 @@
+# Proyecto-Final-ED2
+Este es mi segundo proyecto como estudiante de Cucei, de una de las materias de Estructura de datos, donde hago uso de listas, grafos, pilas y colas, tambien utilizo otras estructuras  datos basadas en archivos como Listas invertidas, tablas hash. Es el proyecto más grande que hasta hoy he realizado. El proyecto lo hice en C++, todo el codigo es multiplataforma, hasta la pequeña interfaz grafica que trae.
